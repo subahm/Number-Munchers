@@ -3,7 +3,6 @@ from pygame.locals import *
 
 # set constants
 questionsList = ['Find all multiples of', 'Find all even numbers', 'Find all odd numbers', 'Find all prime numbers']
-#questionsList = ['Find all multiples of', 'Find all even numbers']
 #8x8 = 64 boxes
 # assertions
 
